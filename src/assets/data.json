@@ -1,0 +1,118 @@
+{
+    "title": "TOI Top 10",
+    "leadimage": "https://timesofindia.indiatimes.com/photo/120550103.cms",
+    "description": "Hello and welcome to the TOI Top 10—your sharp, no-spin guide to the week’s most important stories from the biggest English newspaper in the world. This week, the United States steps in to de-escalate tensions between India and Pakistan following the Pahalgam terror attack. In Europe, a landmark deal gives the US access to Ukraine’s rare earth minerals in exchange for security commitments. A heart-wrenching student suicide at a university in Odisha raises urgent questions about mental health. In Delhi, drunk driving cases are on the rise, while PM Modi outlines a creative vision for economic growth at the WAVES summit. Barcelona and Inter Milan battle to a thrilling 3–3 draw in the UEFA Champions League, CSK’s playoff absence prompts scrutiny, and a tragic influencer death sparks debate around the toll of social media. From economic trends to diplomatic friction, here are the 10 stories shaping headlines this week:",
+    "stories": [
+      {
+        "id": 1,
+        "headline": "Uncle Sam the Peacemaker",
+        "summary": "A bit like a boisterous uncle at a wedding known for fisticuffs asking others not to engage in fisticuffs, the US has asked India and Pakistan to de-escalate and prevent military conflict post the Pahalgam terror attack. Secretary of State Marco Rubio urged his counterpart S Jaishankar to \"work with Pakistan\" and maintain peace and security in South Asia. Rubio also spoke to Pakistan Prime Minister Shehbaz Sharif, urging Pakistani officials to cooperate in investigating the \"unconscionable attack.\"",
+        "details": {
+          "highlight_1": "<b>Moral High Ground with an Escape Hatch:</b> Rubio expressed sorrow for the victims and backed India's right to justice, but stopped short of applying pressure on Pakistan—carefully avoiding any mention of \"direct communication\" when speaking to Jaishankar, unlike with Sharif.",
+          "highlight_2": "<b>Selective Condemnation Club:</b> Pakistan only condemned the attack at the UN Security Council after trying to water down the statement with China's help.",
+          "highlight_3": "<b>Trump Logic 101:</b> President Trump first expressed strong support to India. He later said both nations would \"figure it out,\" reflecting a more neutral stance in tone.",
+          "link": "https://timesofindia.indiatimes.com/india/us-nudges-india-pakistan-to-work-together-de-escalate-tension/articleshow/120802962.cms"
+        }
+      },
+      {
+        "id": 2,
+        "headline": "Guns for Minerals",
+        "summary": "The United States and Ukraine have signed a landmark minerals-for-security agreement granting Washington access to Ukraine's rare earth resources in exchange for long-term military aid. The deal, which still requires ratification by Ukraine's parliament, includes a jointly managed Reconstruction Investment Fund with equal voting rights and no repayment obligations for past US assistance. Kyiv says the final version is far more balanced than earlier proposals.",
+        "details": {
+          "highlight_1": "<b>Resources for Resilience:</b> Ukraine keeps sovereignty over its natural assets while giving the US priority rights to buy or broker strategic materials—including minerals, oil and gas—critical for both reconstruction and global supply chains.",
+          "highlight_2": "<b>Joint Fund, Equal Stakes:</b> The Reconstruction Investment Fund will be jointly run by Ukrainian and American directors, funnelling profits from resource ventures into Ukraine's redevelopment.",
+          "highlight_3": "<b>From Threats to Stones:</b> The deal marks a shift from earlier, more conditional US support. Washington walks away with rare earth access, while Kyiv receives renewed economic backing and military commitment.",
+          "link": "https://timesofindia.indiatimes.com/world/us/us-ukraine-sign-mineral-deal-to-establish-reconstruction-investment-fund-what-we-know-so-far/articleshow/120798930.cms"
+        }
+      },
+      {
+        "id": 3,
+        "headline": "A College Tragedy",
+        "summary": "An 18-year-old Nepalese student was found dead in her hostel room at KIIT University in Bhubaneswar, marking the second such incident in less than three months. Police suspect suicide and have ruled out foul play, while her mobile phone and laptop are undergoing forensic examination. The first-year BTech student's death has once again raised concerns about student welfare and institutional accountability.",
+        "details": {
+          "highlight_1": "<b>A Recurrent Tragedy:</b> This case follows the February death of another Nepali student, which led to widespread protests, diplomatic engagement between India and Nepal, and allegations of negligence against the institute.",
+          "highlight_2": "<b>Investigation Ongoing:</b> Authorities have launched a detailed inquiry, questioning fellow students and hostel staff. The motive remains unclear, and the student's family has been notified.",
+          "highlight_3": "<b>Institutional Response:</b> KIIT has stated it is cooperating fully with police. Calls have intensified for improved support systems for international students.",
+          "link": "https://timesofindia.indiatimes.com/city/bhubaneswar/just-2-5-months-after-previous-suicide-another-nepalese-student-found-dead-in-kiit-hostel/articleshow/120807583.cms"
+        }
+      },
+      {
+        "id": 4,
+        "headline": "Riding the WAVES",
+        "summary": "At the World Audio Visual Entertainment Summit (WAVES) in Mumbai, Prime Minister Narendra Modi positioned India's storytelling heritage as a pillar of future economic growth. He called for building an \"Orange Economy\" based on creativity, content, and culture, encouraging investors to prioritise people over platforms.",
+        "details": {
+          "highlight_1": "<b>Cultural Capital as Economic Engine:</b> Modi cited India's global footprint in cinema, OTT, animation, and gaming, arguing that the creative economy can help propel India to the status of the world's third-largest economy.",
+          "highlight_2": "<b>Tech with a Soul:</b> The PM warned against the risks of dehumanisation through technology in the arts, urging a focus on emotional and intellectual richness.",
+          "highlight_3": "<b>New Institutions, New Ecosystems:</b> ₹400 crore has been allocated for a new Indian Institute of Creative Technology (IICT) in Mumbai, with a 120-acre creative hub being developed within Film City.",
+          "link": "https://timesofindia.indiatimes.com/city/bhubaneswar/just-2-5-months-after-previous-suicide-another-nepalese-student-found-dead-in-kiit-hostel/articleshow/120807583.cms"
+        }
+      },
+      {
+        "id": 5,
+        "headline": "Speed, Spirits & Sirens",
+        "summary": "Drunk driving in Delhi is on a sharp upward trajectory, with a 40% rise in cases in 2024 and over 7,700 instances already recorded in the first quarter of 2025. Despite ongoing awareness campaigns and stricter penalties, enforcement gaps persist.",
+        "details": {
+          "highlight_1": "<b>Startling Spike, Grim Consequences:</b> In 2024, Delhi recorded 22,703 drunk driving cases—up from 16,244 in 2023. The trend has continued into 2025.",
+          "highlight_2": "<b>Culture of Complacency:</b> Experts blame inconsistent enforcement, lenient checks on weekdays, and rising alcohol availability.",
+          "highlight_3": "<b>Crackdown Mode On:</b> Delhi Police has increased breathalyser checks and is considering licence cancellations as a deterrent.",
+          "link": "https://timesofindia.indiatimes.com/city/delhi/delhis-crash-course-in-irresponsibility/articleshow/120800149.cms"
+        }
+      },
+      {
+        "id": 6,
+        "headline": "Closed Gates, Open Wounds",
+        "summary": "In the tense aftermath of the April 20 Pahalgam terror attack, Pakistan refused to open the Wagah border on Thursday, leaving dozens of its citizens—including deportees and long-settled residents—stranded in the no-man's-land between the two countries.",
+        "details": {
+          "highlight_1": "<b>Stranded and Stateless:</b> Among those affected were elderly women and Indian citizens married in Pakistan, now unable to return to either side.",
+          "highlight_2": "<b>Caught Between Borders:</b> Many stranded Pakistani labourers, including Hindus who had been working in Rajasthan, now face uncertainty and hardship.",
+          "highlight_3": "<b>Compassion on the Ground:</b> Local porters and gurdwara volunteers have stepped in to provide food and support to those stuck at the border.",
+          "link": "https://timesofindia.indiatimes.com/world/pakistan/pahalgama-attack-aftermath-pakistan-shuts-wagah-gate-leaves-its-citizens-stranded/articleshow/120803489.cms"
+        }
+      },
+      {
+        "id": 7,
+        "headline": "All That Glitters…",
+        "summary": "Outstanding bank loans against gold more than doubled in FY25—rising 103% to ₹2.1 lakh crore—making them the fastest-growing credit segment amid an overall slowdown in bank lending.",
+        "details": {
+          "highlight_1": "<b>Glittering Growth, Slower System:</b> While total credit growth dropped to 11%, gold-backed loans surged due to price increases and regulatory changes.",
+          "highlight_2": "<b>Shifting Credit Landscape:</b> Gold loans now account for 1.1% of all bank credit, nearly doubling their share in just one year.",
+          "highlight_3": "<b>A Metal for All Seasons:</b> With cautious lenders and slow industrial credit, many Indians have opted to leverage family gold for liquidity.",
+          "link": "https://timesofindia.indiatimes.com/business/india-business/gold-loans-double-in-a-year-even-as-credit-growth-slows/articleshow/120805037.cms"
+        }
+      },
+      {
+        "id": 8,
+        "headline": "A Canvas in Chaos",
+        "summary": "Barcelona and Inter Milan played out a dramatic 3-3 draw in the Champions League semi-final first leg. Sixteen-year-old Lamine Yamal scored a standout solo goal, marking his 100th appearance for the club.",
+        "details": {
+          "highlight_1": "<b>Thuram's Lightning, Dumfries' Thunder:</b> Inter led twice early, with Thuram and Dumfries capitalising on defensive lapses.",
+          "highlight_2": "<b>Yamal the Phenomenon:</b> The teenager became the youngest-ever scorer in a Champions League semi-final, igniting Barcelona's comeback.",
+          "highlight_3": "<b>All to Play For in Milan:</b> Both sides lost key players to injury, and the second leg remains wide open.",
+          "link": "https://timesofindia.indiatimes.com/sports/football/top-stories/uefa-champions-league-barcelona-and-inter-milan-battle-to-a-thrilling-3-3-draw-in-semi-final-first-leg/articleshow/120782076.cms"
+        }
+      },
+      {
+        "id": 9,
+        "headline": "End of an Era?",
+        "summary": "For the second consecutive season, Chennai Super Kings have failed to reach the IPL playoffs. The team's strategy—relying on ageing players and a cautious batting approach—has come under scrutiny.",
+        "details": {
+          "highlight_1": "<b>Too Cautious, Too Late:</b> CSK struggled to accelerate in the Powerplay and lacked consistent top-order firepower.",
+          "highlight_2": "<b>Auction Misfires:</b> Several players failed to deliver, and the team's reluctance to invest in younger talent hurt them.",
+          "highlight_3": "<b>Bowling Gaps and Leadership Questions:</b> With Pathirana out of form and Dhoni unable to contribute consistently, CSK faces a tough rebuild.",
+          "link": "https://timesofindia.indiatimes.com/sports/cricket/ipl/decoding-the-csk-debacle-what-went-wrong-for-ms-dhonis-troops/articleshow/120810175.cms"
+        }
+      },
+      {
+        "id": 10,
+        "headline": "A Tragic Death",
+        "summary": "Actor Taapsee Pannu has responded to the death of influencer Misha Agarwal, who reportedly died by suicide after experiencing depression linked to declining follower numbers on Instagram.",
+        "details": {
+          "highlight_1": "<b>A Cry Behind the Screen:</b> Misha's family shared that she had built her identity around social media metrics, which impacted her mental health.",
+          "highlight_2": "<b>Taapsee's Plea:</b> In a statement, the actor urged people to value real-life relationships over digital validation.",
+          "highlight_3": "<b>Mental Health in Focus:</b> The incident has reignited conversations around the pressures of online visibility, especially for young content creators.",
+          "link": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/taapsee-pannu-calls-misha-agarwals-tragic-death-heartbreaking-warns-against-social-media-obsession-this-is-something-i-long-feared/articleshow/120766987.cms"
+        }
+      }
+    ]
+  }
+  
