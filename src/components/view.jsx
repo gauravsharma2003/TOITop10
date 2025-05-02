@@ -28,13 +28,28 @@ function View() {
         <p className="text-base text-gray-900 leading-relaxed">
           {interval.description}
         </p>
-        {interval.link && (
+        {interval.image && (
           <div className="mt-4">
-            <img 
-              src={interval.link} 
-              alt={interval.headline}
-              className="w-full h-auto rounded-lg shadow-sm"
-            />
+            {interval.link ? (
+              <a 
+                href={interval.link} 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="block hover:opacity-90 transition-opacity"
+              >
+                <img 
+                  src={interval.image} 
+                  alt={interval.headline}
+                  className="w-full h-auto rounded-lg shadow-sm"
+                />
+              </a>
+            ) : (
+              <img 
+                src={interval.image} 
+                alt={interval.headline}
+                className="w-full h-auto rounded-lg shadow-sm"
+              />
+            )}
           </div>
         )}
       </div>
@@ -45,7 +60,7 @@ function View() {
     <div className="min-h-screen bg-gray-100 md:p-8">
       <div className="w-full md:max-w-[700px] md:mx-auto text-left bg-white md:p-8 p-4 md:rounded-lg shadow-sm">
         <header className="text-left mb-8 pb-6 border-b-2 border-gray-200">
-          <h1 className="text-4xl mb-3 text-[#E3272A] font-bold">{data.title}</h1>
+          {/* <h1 className="text-4xl mb-3 text-[#E3272A] font-bold">{data.title}</h1> */}
           
           {data.leadimage && (
             <div className="w-full mb-4">
@@ -57,9 +72,10 @@ function View() {
             </div>
           )}
 
-          <p className="text-lg text-gray-900 leading-relaxed">
-            {data.description}
-          </p>
+          <p 
+            className="text-lg text-gray-900 leading-relaxed"
+            dangerouslySetInnerHTML={renderHTML(data.description)}
+          />
         </header>
 
         <div className="flex flex-col gap-6 py-2">

@@ -2,18 +2,21 @@
     "after": 3,
     "headline": "TOI Games",
     "description": "Challenge your word-finding skills with today's mini crossword! A perfect quick brain teaser to test your vocabulary and pattern recognition. How many words can you discover hidden in this compact grid? Perfect for a short mental workout during your coffee break or commute.",
-    "link": "https://static.toiimg.com/photo/120785661.cms"
+    "link": "https://timesofindia.onelink.me/mjFd/MiniCrossword",
+    "image": "https://static.toiimg.com/photo/120785661.cms"
   },
   {
     "after": 6,
     "headline": "AI meets history",
     "description": "Explore the fascinating world of history with TOI. Dive into the past with our interactive timeline, and discover how events shaped the world we live in today. Perfect for history buffs and curious minds alike.",
-    "link": "https://static.toiimg.com/photo/120825445.cms"
+    "link": null,
+    "image": "https://static.toiimg.com/photo/120825445.cms"
   },
   {
     "after": 10,
     "headline": "Download the TOI app",
     "description": "Get the latest news and updates from TOI on the go. Download the TOI app now and stay informed with the latest news and events.",
-    "link": "https://static.toiimg.com/photo/120826672.cms"
+    "link": "https://timesofindia.onelink.me/mjFd/MiniCrossword",
+    "image": "https://static.toiimg.com/photo/120826672.cms"
   }
 ]
